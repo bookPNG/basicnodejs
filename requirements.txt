@@ -1,0 +1,7 @@
+nodemon
+express
+ejs
+mongoose
+multer
+cookie-parser
+express-session
